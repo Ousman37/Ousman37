@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about web3
+- ⚡ Fun fact: I am funny 
 <br width="100%"  style="backgroud-color; black;"/>
 <br />
 
