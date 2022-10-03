@@ -5,7 +5,17 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
+
+ - 🔭 I’m currently working on ...
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2022 Goals: Learn more about web3
+
+
+
+
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
