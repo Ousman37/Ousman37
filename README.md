@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about web3
 <br />
-
+<br />
 
 ### Languages and Tools:
 
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 
-<br />
+
 
 
 
