@@ -1,4 +1,4 @@
-<h1 align="center">Hi there  👋, I'm Didi Ethmane</h1>
+<h1 align="center">Hi there  👋,  I'm Didi Ethmane</h1>
 <h3 align="center">I am Didi,  A passionate frontend developer living in Oslo  where I do  designn and development.  I am really enjoy learning languages and my  goal is to become master in resact  frameworks , </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ousman37&label=Profile%20views&color=0e75b6&style=flat" alt="ousman37" /> </p>
