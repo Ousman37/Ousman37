@@ -1,8 +1,13 @@
 
 ![logo](https://github.com/Ousman37/Ousman37/blob/main/Screenshot%202022-09-26%20at%2020.00.12.png)
 
+
+
 <h1 align="center">Hi 👋, I'm Didi Ethmane</h1>
 <h3 align="center">A passionate frontend developer , living in Oslo</h3>
+
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ousman37&label=Profile%20views&color=0e75b6&style=flat" alt="ousman37" /> </p>
 
@@ -32,24 +37,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ousman37&show_icons=true&locale=en" alt="ousman37" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ousman37&" alt="ousman37" /></p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
