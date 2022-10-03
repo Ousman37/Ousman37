@@ -1,4 +1,6 @@
 
+![logo](https://github.com/Ousman37/Ousman37/blob/main/Screenshot%202022-09-26%20at%2020.00.12.png)
+
 <h1 align="center">Hi 👋, I'm Didi Ethmane</h1>
 <h3 align="center">A passionate frontend developer , living in Oslo</h3>
 
