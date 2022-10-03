@@ -1,5 +1,5 @@
 
-![logo](https://github.com/Ousman37/Ousman37/blob/main/Screenshot%202022-09-26%20at%2020.00.12.png)
+![logo](https://github.com/Ousman37/Ousman37/blob/main/banner.png)
 
 
 
