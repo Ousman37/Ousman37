@@ -32,22 +32,13 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>  
- <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
- <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>  
- <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">  
- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"></a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
- <a href="https://postman.com" target="_blank" rel="noreferrer">
- <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a> 
- <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>  
- <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
- <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
- <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a></p>
+
+  
+  <a href="#"><img src="https://user-images.githubusercontent.com/88853764/172825242-03a2fd5a-9f90-4752-b8fa-c0b13e3b80a9.svg" alt="html" style="max-width: 100%;"></a>  
+   <a href="#"><img src="https://user-images.githubusercontent.com/88853764/172825371-07c5f12c-c2a8-40a6-8eb2-f9527cc57cfb.svg" alt="css" style="max-width: 100%;"></a> 
+  <a href="#"><img src="https://user-images.githubusercontent.com/88853764/172825319-d39a6a06-e54f-4cfd-b8d7-e1f9aa69cf4f.svg" alt="js" style="max-width: 100%;"></a>  
+   <!--<a href="#"><img src="https://user-images.githubusercontent.com/88853764/172823916-38fb182d-387b-407b-93e8-a63ff34835f5.svg" alt="react" style="max-width: 100%;"></a> -->
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ousman37&show_icons=true&locale=en&layout=compact" alt="ousman37" /></p>
 
