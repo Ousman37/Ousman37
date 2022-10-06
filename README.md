@@ -1,9 +1,15 @@
 ![logo](https://github.com/Ousman37/Ousman37/blob/main/banner.png)
 
 
-<h1 align="center">Hi there  👋,  I'm Didi Ethmane</h1>
-<h3 align="center">I am Didi,  A passionate frontend developer living in Oslo  where I do  designn and development.  I am really enjoy learning languages and my  goal is to become master in resact  frameworks , </h3>
+<h1 align="center">Hi there  👋, Welcome to my GithuB Profile </h1>
 
+## About Me
+<h3 align="center">I'm Ethmane Didi, currently studing frontend developer Which I enjoyed very much 😊 where I do  designn and development.  I am really enjoy learning languages and my  goal is to become master in resact  frameworks , </h3>
+
+## My Goals ?
+<p>
+I wish to be master in some of these following languages and frameworks before I have complete my studies. and continue learning for lifetime.
+</p>
 
 <img align="right" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F54%2Fe3%2F7d%2F54e37d8074ebcde1d96c77d7b2a7f310.gif&f=1&nofb=1&ipt=55747f7ebe06f0f1f9a61d4b4132218953a0746e10c97ec84cc6c5b8f1aa6ac9&ipo=images">
 
