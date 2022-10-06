@@ -1,7 +1,7 @@
 ![logo](https://github.com/Ousman37/Ousman37/blob/main/banner.png)
 
 
-<h1 align="center">Hi there  👋, Welcome to my GithuB Profile </h1>
+<h1 align="center">Hi there  👋, Welcome to my Github Profile </h1>
 
 ## About Me
 <h3 align="center">I'm Ethmane Didi, currently studing frontend developer, which I enjoyed very much 😊 where I do  designn and development.  I really enjoy learning languages.</h3>
