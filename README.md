@@ -30,7 +30,8 @@ I wish to be master in some of these following languages and frameworks before I
 
 - ⚡ Fun fact oe **I think I am funny 😁**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">
+  ###  Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ethmane didi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ethmane didi" height="30" width="40" /></a>
 <a href="https://instagram.com/palett_ui_ux" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="palett_ui_ux" height="30" width="40" /></a>
