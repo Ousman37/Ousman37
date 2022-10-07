@@ -4,7 +4,7 @@
 <h1 align="center">Hi there  👋, Welcome to my Github Profile </h1>
 
 ## About Me
-<h3 align="center">I'm Ethmane Didi, currently studing frontend developer, which I enjoyed very much 😊 where I do  designn and development.  I really enjoy learning languages.</h3>
+<h3 align="center">I'm Ethmane, currently studying frontend developer. Which I enjoyed very much 😊 where I do  designn and development.  I really enjoy learning languages.</h3>
 
 ## My Goals ?
 <p>
