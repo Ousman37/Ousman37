@@ -4,12 +4,13 @@
 <h1 align="center">Hi there  👋, Welcome to my Github Profile </h1>
 
 ## About Me
-<h3 align="center">HELLO, I'M ETHMANE, currently studying  FRONTEND DEVELOPER. WHERE I take my  IDEAS into REALITY I enjoyed very much DESIGNING  DEVELOPMENT. I really  ENJOY learning  LANGUAGES.</h3>
+<h3 align="center">Mitt navn er Ethmane  Didi. Jeg er for tiden student ved Noroff school of technology and
+digital media, hvor jeg utdanner meg til å bli Front End-utvikler. Dette er noe jeg virkelig
+brenner for, har stort engasjement innen HTML5, CSS og JavaScript. Lærer stadig mer, og har fortløpende innleveringer av ulike prosjekter. Jeg er i tillegg utdannet kokk og har lang erfaring fra kokkeyrket.
 
-## My Goals ?
-<p>
-I wish to be master in some of these following languages and frameworks before I have complete my studies. and continue learning for lifetime.
-</p>
+Jeg er  hardtarbeidende, krever mye av meg selv og jobber disiplinert og målrettet. Takler stress meget godt, jobber strukturert og metodisk mot tidsfrister. Jeg er klar til å bruke mine ferdigheter innen front- end utvikling.</h3>
+
+
 
 <img align="right" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F54%2Fe3%2F7d%2F54e37d8074ebcde1d96c77d7b2a7f310.gif&f=1&nofb=1&ipt=55747f7ebe06f0f1f9a61d4b4132218953a0746e10c97ec84cc6c5b8f1aa6ac9&ipo=images">
 
