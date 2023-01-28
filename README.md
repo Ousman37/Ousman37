@@ -1,57 +1,36 @@
-![logo](https://github.com/Ousman37/Ousman37/blob/main/banner.png)
-
-
-<h1 align="center">Hi there  👋, Welcome to my Github Profile </h1>
+# Hi there 👋, Welcome to my Github Profile
 
 ## About Me
-<h3 align="center">Mitt navn er Ethmane  Didi. Jeg er for tiden student ved Noroff school of technology and
-digital media, hvor jeg utdanner meg til å bli Front End-utvikler. Dette er noe jeg virkelig
-brenner for, har stort engasjement innen HTML5, CSS og JavaScript. Lærer stadig mer, og har fortløpende innleveringer av ulike prosjekter. Jeg er i tillegg utdannet kokk og har lang erfaring fra kokkeyrket.
 
-Jeg er  hardtarbeidende, krever mye av meg selv og jobber disiplinert og målrettet. Takler stress meget godt, jobber strukturert og metodisk mot tidsfrister. Jeg er klar til å bruke mine ferdigheter innen front- end utvikling.</h3>
+My name is Ethmane Didi and I am a student at Noroff school of technology and digital media where I am pursuing a career in Front End development. I am passionate about this field and have a strong commitment to HTML5, CSS and JavaScript. I am continuously learning and submitting various projects to improve my skills.
 
+I am a hardworking individual who sets high standards for myself and works in a disciplined and purposeful manner. I am able to handle stress well and work efficiently against deadlines. I am eager to put my skills in front-end development to use and am always looking for new opportunities to learn and grow in this field.
 
+![logo](https://github.com/Ousman37/Ousman37/blob/main/banner.png)
 
 <img align="right" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F54%2Fe3%2F7d%2F54e37d8074ebcde1d96c77d7b2a7f310.gif&f=1&nofb=1&ipt=55747f7ebe06f0f1f9a61d4b4132218953a0746e10c97ec84cc6c5b8f1aa6ac9&ipo=images">
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ousman37&label=Profile%20views&color=0e75b6&style=flat" alt="ousman37" /> </p>
-
-- 🔭 I’m currently Studying **frontend developer**
-
-- 🌱 I’m currently learning **Frameworks, courses etc..**
-
+- 🔭 I’m currently studying Front End development
+- 🌱 I’m currently learning various frameworks and courses
 - 👨‍💻 All of my projects are available at [https](https)
-
 - 📝 I regularly write articles on [blog link](blog link)
+- 📫 You can reach me at ousman.didibela@gmail.com
+- 📄 My resume is available at [resume link](resume link)
+- ⚡ Fun fact: I think I am funny 😁
 
-- 📫 How to reach me **Ousman.didibela@gmail.com**
+### Connect with me
 
-- 📄 Know about my experiences [resume link](resume link)
+- [LinkedIn](https://linkedin.com/in/ethmane didi)
+- [Instagram](https://instagram.com/codewith_ethmane)
 
-- ⚡ Fun fact oe **I think I am funny 😁**
+### Skills
 
+- HTML
+- CSS
+- JavaScript
 
-###  Connect with me:
-
-<p align="left">
-<a href="https://linkedin.com/in/ethmane didi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ethmane didi" height="30" width="40" /></a>
-<a href="https://instagram.com/codewith_ethmane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="palett_ui_ux" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-
-  
-  <a href="#"><img src="https://user-images.githubusercontent.com/88853764/172825242-03a2fd5a-9f90-4752-b8fa-c0b13e3b80a9.svg" alt="html" style="max-width: 100%;"></a>  
-   <a href="#"><img src="https://user-images.githubusercontent.com/88853764/172825371-07c5f12c-c2a8-40a6-8eb2-f9527cc57cfb.svg" alt="css" style="max-width: 100%;"></a> 
-  <a href="#"><img src="https://user-images.githubusercontent.com/88853764/172825319-d39a6a06-e54f-4cfd-b8d7-e1f9aa69cf4f.svg" alt="js" style="max-width: 100%;"></a>  
-   <!--<a href="#"><img src="https://user-images.githubusercontent.com/88853764/172823916-38fb182d-387b-407b-93e8-a63ff34835f5.svg" alt="react" style="max-width: 100%;"></a> -->
-</p>
+### Statistics
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ousman37&show_icons=true&locale=en&layout=compact" alt="ousman37" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ousman37&show_icons=true&locale=en" alt="ousman37" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ousman37&" alt="ousman37" /></p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ousman37&show_icons=true" alt="ousman37" /></p>
