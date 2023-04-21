@@ -2,9 +2,11 @@
 
 ## About Me
 
-My name is Ethmane Didi and I am a student at Noroff school of technology and digital media where I am pursuing a career in Front End development. I am passionate about this field and have a strong commitment to HTML5, CSS and JavaScript. I am continuously learning and submitting various projects to improve my skills.
+Hello, I am Ethmane Didi, a passionate Front End Developer currently studying at Noroff School of Technology and Digital Media. My focus is on creating sleek, modern, and responsive interfaces that provide users with an exceptional experience.
 
-I am a hardworking individual who sets high standards for myself and works in a disciplined and purposeful manner. I am able to handle stress well and work efficiently against deadlines. I am eager to put my skills in front-end development to use and am always looking for new opportunities to learn and grow in this field.
+I am deeply interested in the world of Front End Development, with a particular focus on building responsive and user-friendly interfaces. I have a strong foundation in HTML5, CSS, and JavaScript, and I am constantly seeking new ways to enhance my skills and stay up-to-date with the latest technologies.
+
+With a highly motivated and disciplined work ethic, I am capable of meeting deadlines while maintaining a high level of quality in my work. I am always on the lookout for new opportunities to learn and grow in this exciting field.
 
 ![logo](https://github.com/Ousman37/Ousman37/blob/main/banner.png)
 
