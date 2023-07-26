@@ -27,7 +27,7 @@ Thank you for visiting my profile!
 ### Connect with me
 
 - [LinkedIn](https://linkedin.com/in/ethmane didi)
-- [Instagram](https://instagram.com/codewith_ethmane)
+- [Instagram](https://www.linkedin.com/in/ethmane-didi-34885844/)
 
 ### Skills
 
