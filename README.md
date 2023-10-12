@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile! 👋
+# Welcome to My GitHub Profile! 💻
 
 I'm a recent web development graduate and passionate front-end developer with a strong commitment to crafting innovative web solutions and turning ideas into code. My goal is to push creative boundaries and deliver exceptional digital experiences. Explore my portfolio to see how I've tackled challenges and honed my skills. I'm excited to connect with fellow developers and enthusiasts as I embark on new coding endeavors.
 
@@ -22,51 +22,51 @@ Now, as a passionate front-end developer, I leverage this multicultural and mult
 
 
 <div style="margin-bottom: 25px;">
-<h2 align="center" style="margin-bottom: 25px;">💻 Tech Stack</h2>
+<h2 align="center" style="margin-bottom: 25px;">⚙️ Tech Stack</h2>
 <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
 
 <div align="center" style="margin-bottom: 25px;">
-<h3 align="center" style="margin-bottom: 25px;">👉 Programming languages</h3>
+<h3 align="center" style="margin-bottom: 25px;">🚀  Programming languages</h3>
 <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" />
-<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white" />
 </div>
 </div>
 
 <div align="center" style="margin-bottom: 25px;">
-<h3 align="center" style="margin-bottom: 25px;">👉 Software & Tools</h3>
+<h3 align="center" style="margin-bottom: 25px;">🚀  Software & Tools</h3>
 <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
 <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7" />
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Adobe%20XD-470137?style=plastic&logo=Adobe%20XD&logoColor=#FF61F6" />
-<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white" />
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB" />
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=plastic&logo=npm&logoColor=white" />
-<img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white" />
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white" />
 </div>
 </div>
 
 <div align="center" style="margin-bottom: 25px;">
-<h3 align="center" style="margin-bottom: 25px;">👉 IDEs</h3>
+<h3 align="center" style="margin-bottom: 25px;">🧰 IDEs</h3>
 <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white">
 </div>
 </div>
-
+</div>
 </div>
 
+<div align="center" style="margin-bottom: 25px;">
+<h3 align="center" style="margin-bottom: 25px;">🚀 Development Tools</h3>
+<img src="https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7" />
+<img src="https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=#00C7B7" />
 </div>
+
 
 <div style="margin-bottom: 25px;">
-  <h2 align="center" style="margin-bottom: 25px;">📊 GitHub Stats</h2>
+  <h2 align="center" style="margin-bottom: 25px;">📈 GitHub Stats</h2>
   <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
     <img src="https://github-readme-stats.vercel.app/api?username=ousman37&theme=monokai&hide_border=true&include_all_commits=false&count_private=false" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ousman37&theme=monokai&hide_border=true">
