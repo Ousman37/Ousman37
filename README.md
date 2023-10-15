@@ -1,15 +1,15 @@
 # Welcome to My GitHub Profile! 💻
 
-I'm a recent web development graduate and passionate front-end developer with a strong commitment to crafting innovative web solutions and turning ideas into code. My goal is to push creative boundaries and deliver exceptional digital experiences. Explore my portfolio to see how I've tackled challenges and honed my skills. I'm excited to connect with fellow developers and enthusiasts as I embark on new coding endeavors.
+Hello there! I’m Ethmane, a recent graduate from Noroff School of Technology and Digital Media, and a front-end developer brimming with enthusiasm and a knack for crafting innovative web solutions. My journey from the culinary world to coding has been a flavorful blend of discipline, creativity, and a continuous zest for learning. Let's dive into the digital world together, explore my portfolio, and create exceptional experiences on the web!
 
-## About Me
-Greetings, I'm Ethmane, a passionate Front End Developer currently studying at Noroff School of Technology. I specialize in crafting modern and user-friendly interfaces using HTML, CSS, and JavaScript. Let's collaborate and create amazing digital experiences together! 🚀
+## 🚀 About Me
+From Mauritania in North Africa to the vibrant streets of Europe, my experiences have shaped my multifaceted approach towards web development. I leverage my multicultural background and various life experiences to inform my work, crafting intuitive and user-friendly digital interfaces with HTML, CSS, and JavaScript.
 
-**Experience:** Hailing from North Africa, specifically Mauritania, I bring a rich and diverse background to my journey. I began my career as a chef, instilling in me discipline, time management, and an unwavering commitment to every task. Extensive travels across Europe have nurtured my profound love for exploration. In my free time, I'm an avid enthusiast of both physical fitness and meditation.
+- **Experience:** My foundation in the culinary arts has enriched my work ethic, instilling in me qualities like discipline, punctuality, and a steadfast commitment to excellence. My travels have ignited a love for exploration and appreciation for diverse perspectives, which I weave into my digital creations.
 
-Now, as a passionate front-end developer, I leverage this multicultural and multidisciplinary perspective to craft intuitive web experiences. My focus is on front-end development, utilizing HTML, CSS, JavaScript, and JavaScript Frameworks to create responsive, user-friendly websites.
+- **Philosophy:** Off the screen, I balance my life with a commitment to physical fitness and meditation. This holistic approach ensures that I tackle each project and challenge mindfully, synthesizing creativity with technical expertise.
 
-**Projects:** I've had the privilege of working on a variety of projects that showcase my skills and my love for web development. Each project narrates a unique story of creativity and innovation.
+- **Let's Connect:** Whether you’re a fellow developer, a prospective collaborator, or just stopping by - I’m thrilled to connect, collaborate, and explore the endless possibilities in the digital realm!
 
 <div style="margin-bottom: 25px;">
 <h2 align="center" style="margin-bottom: 25px;">🌐 Socials</h2>
