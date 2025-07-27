@@ -106,7 +106,11 @@
 
 <!-- GitHub Contribution Snake -->
 <!-- 🐍 GitHub Contribution Snake Animation -->
-<img src="https://raw.githubusercontent.com/Ousman37/Ousman37/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" width="100%" />
+<!-- GitHub Contribution Snake -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ousman37/Ousman37/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
 
 
 <!-- GitHub Stats Table -->
