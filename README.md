@@ -81,8 +81,6 @@
 
 ---
 
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -113,8 +111,6 @@
   <img src="https://raw.githubusercontent.com/Ousman37/Ousman37/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
-
-
 <!-- GitHub Stats Table -->
 <table align="center">
   <tr>
@@ -138,7 +134,6 @@
 
 
 ---
-
 
 ### 🎯 Current Focus
 
