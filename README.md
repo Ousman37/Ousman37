@@ -14,11 +14,13 @@
 
 ### 🚀 Professional Services
 <div align="center">
-  
-  [![Bold Layer](https://img.shields.io/badge/Visit_My_Freelance_Site-FF6C37?style=for-the-badge&logo=vercel&logoColor=white)](https://www.bold-layer.com)
-  
-  **Custom websites in 14 days** • **No templates** • **Conversion-focused**  
-  [View Portfolio Samples →](https://www.bold-layer.com/work) | [Get a Quote](mailto:ousman.didibela@gmail.com)
+
+  [![Live Demo](https://img.shields.io/badge/🚀_See_Live_Examples-FF6C37?style=for-the-badge&logo=vercel&logoColor=white)](https://www.bold-layer.com/)
+  [![Get Started](https://img.shields.io/badge/📩_Instant_Quote-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:ousman.didibela@gmail.com)
+
+  **High-performance websites delivered in 14 days**  
+  ✅ **100% Custom** | ✅ **Mobile-Optimized** | ✅ **SEO-Ready**  
+  *"See my live servers in action →"*  
 
 </div>
 
