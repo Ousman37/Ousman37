@@ -93,30 +93,43 @@
 
 ---
 
+## 📊 GitHub Analytics
 
+<!-- Profile Views -->
+![Profile Views](https://komarev.com/ghpvc/?username=ousman37&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
+<!-- GitHub Stats & Streak -->
+<a href="https://github.com/Ousman37">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ousman37&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=ousman37&theme=radical&hide_border=true" alt="GitHub Streak" />
+</a>
 
+<!-- GitHub Contribution Snake -->
+<img src="https://raw.githubusercontent.com/Ousman37/Ousman37/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" width="100%" />
 
-  <!-- Visitor Counter -->
-  <img src="https://komarev.com/ghpvc/?username=ousman37&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Visitor count"/>
+<!-- GitHub Stats Table -->
+<table align="center">
+  <tr>
+    <th>Total Stars</th>
+    <th>Total PRs</th>
+    <th>Total Issues</th>
+    <th>Total Commits (2025)</th>
+  </tr>
+  <tr>
+    <td align="center">⭐ 478</td>
+    <td align="center">🔀 53</td>
+    <td align="center">🐛 33</td>
+    <td align="center">💾 59</td>
+  </tr>
+</table>
 
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ousman37&show_icons=true&theme=radical&hide_title=true&hide_border=true" alt="GitHub Stats" height="160"/>
-
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com/?user=ousman37&theme=radical&hide_border=true" alt="GitHub Streak" height="160"/>
-
-  <!-- Snake Animation -->
-  <img src="https://raw.githubusercontent.com/Ousman37/Ousman37/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
-
-  <!-- GitHub Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=ousman37&margin-w=5&margin-h=5&no-bg=true&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" width="100%"/>
-
+<!-- GitHub Trophies -->
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=ousman37&margin-w=5&margin-h=5&no-bg=true&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
+</a>
 
 
 ---
-
-
 
 
 ### 🎯 Current Focus
