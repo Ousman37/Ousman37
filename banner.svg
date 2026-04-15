@@ -1,120 +1,271 @@
 <svg width="1200" height="300" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300">
   <defs>
+
+    <!-- Base background gradient -->
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0D1117;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#161B22;stop-opacity:1" />
+      <stop offset="0%"   stop-color="#080C12"/>
+      <stop offset="100%" stop-color="#0F1621"/>
     </linearGradient>
+
+    <!-- Top/bottom accent bar -->
     <linearGradient id="accentBar" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%"   style="stop-color:#22D3EE;stop-opacity:1" />
-      <stop offset="50%"  style="stop-color:#FF6C37;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#22D3EE;stop-opacity:1" />
+      <stop offset="0%"   stop-color="#22D3EE"/>
+      <stop offset="50%"  stop-color="#FF6C37"/>
+      <stop offset="100%" stop-color="#22D3EE"/>
     </linearGradient>
-    <linearGradient id="nameGlow" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%"   style="stop-color:#FFFFFF;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#E2E8F0;stop-opacity:1" />
+
+    <!-- Left ambient glow -->
+    <radialGradient id="leftGlow" cx="25%" cy="50%" r="55%">
+      <stop offset="0%"   stop-color="#22D3EE" stop-opacity="0.07"/>
+      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Right ambient glow -->
+    <radialGradient id="rightGlow" cx="88%" cy="50%" r="45%">
+      <stop offset="0%"   stop-color="#FF6C37" stop-opacity="0.06"/>
+      <stop offset="100%" stop-color="#FF6C37" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Code panel background -->
+    <linearGradient id="panelGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%"   stop-color="#0D1520" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#0A1118" stop-opacity="1"/>
     </linearGradient>
-    <filter id="softGlow" x="-20%" y="-50%" width="140%" height="200%">
-      <feGaussianBlur in="SourceAlpha" stdDeviation="6" result="blur"/>
-      <feFlood flood-color="#22D3EE" flood-opacity="0.25" result="color"/>
-      <feComposite in="color" in2="blur" operator="in" result="shadow"/>
+
+    <!-- Name glow filter -->
+    <filter id="nameGlow" x="-10%" y="-40%" width="120%" height="180%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="8" result="blur"/>
+      <feFlood flood-color="#22D3EE" flood-opacity="0.35" result="color"/>
+      <feComposite in="color" in2="blur" operator="in" result="glow"/>
       <feMerge>
-        <feMergeNode in="shadow"/>
+        <feMergeNode in="glow"/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
+
+    <!-- Subtle glow for rings -->
+    <filter id="ringGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Pill background -->
+    <filter id="pillGlow" x="-10%" y="-30%" width="120%" height="160%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="2" result="blur"/>
+      <feFlood flood-color="#22D3EE" flood-opacity="0.2" result="color"/>
+      <feComposite in="color" in2="blur" operator="in" result="glow"/>
+      <feMerge>
+        <feMergeNode in="glow"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
   </defs>
 
-  <!-- Background -->
+  <!-- ── BACKGROUND ─────────────────────────────────────────── -->
   <rect width="1200" height="300" fill="url(#bgGrad)"/>
+  <rect width="1200" height="300" fill="url(#leftGlow)"/>
+  <rect width="1200" height="300" fill="url(#rightGlow)"/>
 
-  <!-- Subtle grid -->
-  <g opacity="0.035" stroke="#22D3EE" stroke-width="1">
+  <!-- Grid -->
+  <g stroke="#22D3EE" stroke-width="0.6" opacity="0.08">
     <line x1="0"    y1="60"  x2="1200" y2="60"/>
     <line x1="0"    y1="120" x2="1200" y2="120"/>
     <line x1="0"    y1="180" x2="1200" y2="180"/>
     <line x1="0"    y1="240" x2="1200" y2="240"/>
-    <line x1="200"  y1="0"   x2="200"  y2="300"/>
-    <line x1="400"  y1="0"   x2="400"  y2="300"/>
+    <line x1="150"  y1="0"   x2="150"  y2="300"/>
+    <line x1="300"  y1="0"   x2="300"  y2="300"/>
+    <line x1="450"  y1="0"   x2="450"  y2="300"/>
     <line x1="600"  y1="0"   x2="600"  y2="300"/>
-    <line x1="800"  y1="0"   x2="800"  y2="300"/>
-    <line x1="1000" y1="0"   x2="1000" y2="300"/>
+    <line x1="750"  y1="0"   x2="750"  y2="300"/>
+    <line x1="900"  y1="0"   x2="900"  y2="300"/>
+    <line x1="1050" y1="0"   x2="1050" y2="300"/>
   </g>
 
-  <!-- Right-side decorative rings -->
-  <circle cx="1080" cy="150" r="220" fill="none" stroke="#22D3EE" stroke-width="1" opacity="0.05"/>
-  <circle cx="1080" cy="150" r="160" fill="none" stroke="#22D3EE" stroke-width="1" opacity="0.06"/>
-  <circle cx="1080" cy="150" r="100" fill="none" stroke="#FF6C37" stroke-width="1" opacity="0.09"/>
-  <circle cx="1080" cy="150" r="50"  fill="none" stroke="#FF6C37" stroke-width="1" opacity="0.12"/>
-  <circle cx="1080" cy="150" r="5"   fill="#FF6C37" opacity="0.7"/>
-  <circle cx="1080" cy="50"  r="3"   fill="#22D3EE" opacity="0.5"/>
-  <circle cx="980"  cy="220" r="2"   fill="#22D3EE" opacity="0.4"/>
-  <circle cx="1150" cy="80"  r="2"   fill="#FF6C37" opacity="0.4"/>
-
-  <!-- Decorative code block (ghost) -->
-  <text x="810" y="108" font-family="'Courier New', monospace" font-size="12.5" fill="#22D3EE" opacity="0.2">const developer = {</text>
-  <text x="830" y="128" font-family="'Courier New', monospace" font-size="12.5" fill="#94A3B8" opacity="0.2">  name: "Ethmane",</text>
-  <text x="830" y="148" font-family="'Courier New', monospace" font-size="12.5" fill="#94A3B8" opacity="0.2">  journey: "Chef → Developer",</text>
-  <text x="830" y="168" font-family="'Courier New', monospace" font-size="12.5" fill="#94A3B8" opacity="0.2">  based: "Norway 🇳🇴",</text>
-  <text x="830" y="188" font-family="'Courier New', monospace" font-size="12.5" fill="#94A3B8" opacity="0.2">  ships: "in 14 days 🚀",</text>
-  <text x="810" y="208" font-family="'Courier New', monospace" font-size="12.5" fill="#22D3EE" opacity="0.2">};</text>
-
-  <!-- Top accent bar -->
-  <rect x="0" y="0" width="1200" height="3" fill="url(#accentBar)"/>
-
-  <!-- Bottom accent bar -->
+  <!-- ── ACCENT BARS ─────────────────────────────────────────── -->
+  <rect x="0" y="0"   width="1200" height="3" fill="url(#accentBar)"/>
   <rect x="0" y="297" width="1200" height="3" fill="url(#accentBar)"/>
 
-  <!-- Left vertical accent -->
-  <rect x="58" y="55" width="3" height="190" fill="#22D3EE" rx="2" opacity="0.65"/>
+  <!-- ── RIGHT PANEL — CODE CARD ────────────────────────────── -->
+  <!-- Panel shadow -->
+  <rect x="755" y="28" width="422" height="244" rx="8"
+        fill="#22D3EE" fill-opacity="0.04"/>
 
-  <!-- Small dot at top of vertical accent -->
-  <circle cx="59.5" cy="52" r="5" fill="#22D3EE" opacity="0.8"/>
+  <!-- Panel body -->
+  <rect x="752" y="25" width="422" height="244" rx="8"
+        fill="url(#panelGrad)"
+        stroke="#22D3EE" stroke-width="0.8" stroke-opacity="0.25"/>
+
+  <!-- Title bar -->
+  <rect x="752" y="25" width="422" height="32" rx="8"
+        fill="#0A1018"/>
+  <rect x="752" y="45" width="422" height="12"
+        fill="#0A1018"/>
+
+  <!-- Window dots -->
+  <circle cx="776" cy="41" r="5" fill="#FF5F57" opacity="0.9"/>
+  <circle cx="796" cy="41" r="5" fill="#FEBC2E" opacity="0.9"/>
+  <circle cx="816" cy="41" r="5" fill="#28C840" opacity="0.9"/>
+
+  <!-- Window title -->
+  <text x="963" y="46"
+        font-family="'Courier New', monospace" font-size="11"
+        fill="#4A5568" text-anchor="middle" letter-spacing="1">developer.ts</text>
+
+  <!-- Divider under title bar -->
+  <line x1="752" y1="57" x2="1174" y2="57" stroke="#22D3EE" stroke-width="0.5" opacity="0.2"/>
+
+  <!-- Line numbers column -->
+  <rect x="752" y="57" width="30" height="212" fill="#080C12" fill-opacity="0.5"/>
+
+  <!-- Line number texts -->
+  <g font-family="'Courier New', monospace" font-size="11" fill="#3D4A5C" text-anchor="middle">
+    <text x="767" y="80">1</text>
+    <text x="767" y="101">2</text>
+    <text x="767" y="122">3</text>
+    <text x="767" y="143">4</text>
+    <text x="767" y="164">5</text>
+    <text x="767" y="185">6</text>
+    <text x="767" y="206">7</text>
+    <text x="767" y="227">8</text>
+    <text x="767" y="248">9</text>
+  </g>
+
+  <!-- Code content — higher opacity, real syntax colouring -->
+  <g font-family="'Courier New', monospace" font-size="12.5">
+    <!-- Line 1: const keyword + var name -->
+    <text x="792" y="80" fill="#7C88FF" opacity="0.9">const</text>
+    <text x="837" y="80" fill="#E2E8F0" opacity="0.9"> developer = {</text>
+
+    <!-- Line 2 -->
+    <text x="808" y="101" fill="#64748B" opacity="0.85">  name:</text>
+    <text x="853" y="101" fill="#22D3EE" opacity="0.85"> "Ethmane"</text>
+    <text x="931" y="101" fill="#64748B" opacity="0.85">,</text>
+
+    <!-- Line 3 -->
+    <text x="808" y="122" fill="#64748B" opacity="0.85">  stack:</text>
+    <text x="855" y="122" fill="#FF6C37" opacity="0.85"> ["React", "Flutter",</text>
+
+    <!-- Line 4 (continuation) -->
+    <text x="855" y="143" fill="#FF6C37" opacity="0.85">   "Next.js", "TS"]</text>
+    <text x="1025" y="143" fill="#64748B" opacity="0.85">,</text>
+
+    <!-- Line 5 -->
+    <text x="808" y="164" fill="#64748B" opacity="0.85">  ships:</text>
+    <text x="854" y="164" fill="#22D3EE" opacity="0.85"> "in 14 days"</text>
+    <text x="975" y="164" fill="#64748B" opacity="0.85">,</text>
+
+    <!-- Line 6 -->
+    <text x="808" y="185" fill="#64748B" opacity="0.85">  mobile:</text>
+    <text x="859" y="185" fill="#22D3EE" opacity="0.85"> "App Store"</text>
+    <text x="964" y="185" fill="#64748B" opacity="0.85">,</text>
+
+    <!-- Line 7 -->
+    <text x="808" y="206" fill="#64748B" opacity="0.85">  agency:</text>
+    <text x="858" y="206" fill="#22D3EE" opacity="0.85"> "bold-layer.com"</text>
+    <text x="1005" y="206" fill="#64748B" opacity="0.85">,</text>
+
+    <!-- Line 8 closing brace -->
+    <text x="792" y="227" fill="#E2E8F0" opacity="0.9">};</text>
+
+    <!-- Cursor blink -->
+    <rect x="813" y="236" width="8" height="14" fill="#22D3EE" opacity="0.6" rx="1"/>
+  </g>
+
+  <!-- ── ORBITAL RINGS (right edge) ─────────────────────────── -->
+  <g filter="url(#ringGlow)">
+    <circle cx="1155" cy="150" r="115" fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.18"/>
+    <circle cx="1155" cy="150" r="82"  fill="none" stroke="#22D3EE" stroke-width="0.8" opacity="0.22"/>
+    <circle cx="1155" cy="150" r="52"  fill="none" stroke="#FF6C37" stroke-width="1"   opacity="0.30"/>
+    <circle cx="1155" cy="150" r="26"  fill="none" stroke="#FF6C37" stroke-width="1"   opacity="0.35"/>
+    <circle cx="1155" cy="150" r="6"   fill="#FF6C37" opacity="0.85"/>
+    <!-- Orbit dots -->
+    <circle cx="1155" cy="35"  r="3"   fill="#22D3EE" opacity="0.7"/>
+    <circle cx="1040" cy="150" r="2.5" fill="#22D3EE" opacity="0.55"/>
+    <circle cx="1155" cy="265" r="2.5" fill="#FF6C37" opacity="0.55"/>
+  </g>
+
+  <!-- ── LEFT SECTION ────────────────────────────────────────── -->
+
+  <!-- Vertical accent line -->
+  <rect x="54" y="50" width="3" height="200" rx="1.5" fill="#22D3EE" opacity="0.8"/>
+  <circle cx="55.5" cy="47" r="5.5" fill="#22D3EE" opacity="0.9"/>
+  <circle cx="55.5" cy="253" r="3" fill="#22D3EE" opacity="0.4"/>
 
   <!-- Name -->
-  <text x="88" y="130"
+  <text x="84" y="128"
         font-family="'Courier New', Courier, monospace"
-        font-size="72"
+        font-size="74"
         font-weight="700"
-        fill="url(#nameGlow)"
-        letter-spacing="8"
-        filter="url(#softGlow)">ETHMANE</text>
+        fill="#FFFFFF"
+        letter-spacing="10"
+        filter="url(#nameGlow)">ETHMANE</text>
 
-  <!-- Title row -->
-  <text x="90" y="165"
+  <!-- Role line -->
+  <text x="86" y="162"
         font-family="'Courier New', Courier, monospace"
-        font-size="17"
+        font-size="15.5"
         fill="#22D3EE"
-        letter-spacing="3.5"
-        opacity="0.95">FRONTEND DEVELOPER  ·  BOLD LAYER FOUNDER</text>
+        letter-spacing="4"
+        opacity="1">FRONTEND DEVELOPER  ·  BOLD LAYER FOUNDER</text>
 
-  <!-- Horizontal divider -->
-  <line x1="90" y1="182" x2="700" y2="182" stroke="#FF6C37" stroke-width="1.5" opacity="0.55"/>
+  <!-- Divider -->
+  <line x1="86" y1="178" x2="695" y2="178"
+        stroke="url(#accentBar)" stroke-width="1" opacity="0.5"/>
 
-  <!-- Tech pills row -->
-  <!-- React -->
-  <rect x="90"  y="195" width="72"  height="23" rx="4" fill="#22D3EE" fill-opacity="0.1" stroke="#22D3EE" stroke-width="0.8" stroke-opacity="0.45"/>
-  <text x="126" y="211" font-family="'Courier New', monospace" font-size="11" fill="#22D3EE" text-anchor="middle">React</text>
+  <!-- ── TECH PILLS ──────────────────────────────────────────── -->
+  <g filter="url(#pillGlow)">
 
-  <!-- Next.js -->
-  <rect x="170" y="195" width="72"  height="23" rx="4" fill="#22D3EE" fill-opacity="0.1" stroke="#22D3EE" stroke-width="0.8" stroke-opacity="0.45"/>
-  <text x="206" y="211" font-family="'Courier New', monospace" font-size="11" fill="#22D3EE" text-anchor="middle">Next.js</text>
+    <!-- React -->
+    <rect x="86"  y="191" width="70" height="24" rx="5"
+          fill="#22D3EE" fill-opacity="0.12"
+          stroke="#22D3EE" stroke-width="1" stroke-opacity="0.6"/>
+    <text x="121" y="207"
+          font-family="'Courier New', monospace" font-size="11.5"
+          fill="#22D3EE" text-anchor="middle" font-weight="600">React</text>
 
-  <!-- TypeScript -->
-  <rect x="250" y="195" width="90"  height="23" rx="4" fill="#22D3EE" fill-opacity="0.1" stroke="#22D3EE" stroke-width="0.8" stroke-opacity="0.45"/>
-  <text x="295" y="211" font-family="'Courier New', monospace" font-size="11" fill="#22D3EE" text-anchor="middle">TypeScript</text>
+    <!-- Next.js -->
+    <rect x="164" y="191" width="72" height="24" rx="5"
+          fill="#22D3EE" fill-opacity="0.12"
+          stroke="#22D3EE" stroke-width="1" stroke-opacity="0.6"/>
+    <text x="200" y="207"
+          font-family="'Courier New', monospace" font-size="11.5"
+          fill="#22D3EE" text-anchor="middle" font-weight="600">Next.js</text>
 
-  <!-- Tailwind -->
-  <rect x="348" y="195" width="80"  height="23" rx="4" fill="#22D3EE" fill-opacity="0.1" stroke="#22D3EE" stroke-width="0.8" stroke-opacity="0.45"/>
-  <text x="388" y="211" font-family="'Courier New', monospace" font-size="11" fill="#22D3EE" text-anchor="middle">Tailwind</text>
+    <!-- TypeScript -->
+    <rect x="244" y="191" width="92" height="24" rx="5"
+          fill="#22D3EE" fill-opacity="0.12"
+          stroke="#22D3EE" stroke-width="1" stroke-opacity="0.6"/>
+    <text x="290" y="207"
+          font-family="'Courier New', monospace" font-size="11.5"
+          fill="#22D3EE" text-anchor="middle" font-weight="600">TypeScript</text>
 
-  <!-- Node.js -->
-  <rect x="436" y="195" width="72"  height="23" rx="4" fill="#FF6C37" fill-opacity="0.1" stroke="#FF6C37" stroke-width="0.8" stroke-opacity="0.45"/>
-  <text x="472" y="211" font-family="'Courier New', monospace" font-size="11" fill="#FF6C37" text-anchor="middle">Node.js</text>
+    <!-- Flutter — orange -->
+    <rect x="344" y="191" width="72" height="24" rx="5"
+          fill="#FF6C37" fill-opacity="0.14"
+          stroke="#FF6C37" stroke-width="1" stroke-opacity="0.65"/>
+    <text x="380" y="207"
+          font-family="'Courier New', monospace" font-size="11.5"
+          fill="#FF6C37" text-anchor="middle" font-weight="600">Flutter</text>
 
-  <!-- Footer line -->
-  <text x="90" y="253"
+    <!-- Tailwind -->
+    <rect x="424" y="191" width="80" height="24" rx="5"
+          fill="#22D3EE" fill-opacity="0.12"
+          stroke="#22D3EE" stroke-width="1" stroke-opacity="0.6"/>
+    <text x="464" y="207"
+          font-family="'Courier New', monospace" font-size="11.5"
+          fill="#22D3EE" text-anchor="middle" font-weight="600">Tailwind</text>
+
+  </g>
+
+  <!-- ── FOOTER LINE ─────────────────────────────────────────── -->
+  <text x="86" y="251"
         font-family="'Courier New', Courier, monospace"
-        font-size="13"
-        fill="#64748B"
-        letter-spacing="1">📍 Norway  ·  🌐 bold-layer.com  ·  ⚡ High-performance websites in 14 days</text>
+        font-size="12.5"
+        fill="#4A5568"
+        letter-spacing="1">🌐 bold-layer.com  ·  ⚡ Production-ready websites in 14 days</text>
+
 </svg>
