@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" alt="Ethmane — Frontend Developer & Bold Layer Founder" width="100%" />
+  <img src="banner.svg" alt="Ethmane — Frontend & Mobile Developer" width="100%" />
 </p>
 
 <h1 align="center">
@@ -28,17 +28,17 @@
 
 ## About Me
 
-Frontend developer focused on building mobile apps with Flutter and modern web products with React and Next.js. I care about clean UI, practical user experiences, and shipping things that actually work. I also run **[Bold Layer](https://www.bold-layer.com)**, a freelance web agency that delivers production-ready websites in 14 days for startups and small businesses. Noroff School of Technology graduate, 2024.
+I build mobile apps with Flutter for the App Store and modern web products with React and Next.js. My focus is on clean UI, practical user experiences, and shipping work that holds up in production. I run **[Bold Layer](https://www.bold-layer.com)**, a freelance web agency that delivers production-ready websites in 14 days for startups and small businesses. Noroff School of Technology graduate, 2024.
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Things I've Built
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://focusflow-app.vercel.app/">FocusFlow — Productivity SaaS</a></h3>
-      <p>Deep-work timer, distraction blocking, mood tracking, and habit streaks — inspired by the Hyperfocus method. Full auth, responsive, deployed to production.</p>
+      <h3><a href="https://focusflow-app.vercel.app/">FocusFlow</a> &nbsp;<img src="https://img.shields.io/badge/Live-22D3EE?style=flat-square" /></h3>
+      <p><strong>Productivity SaaS</strong> — deep-work timer, distraction blocking, habit streaks, and mood tracking. Full authentication, responsive layout, deployed to production.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -46,8 +46,8 @@ Frontend developer focused on building mobile apps with Flutter and modern web p
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://frv-froova.vercel.app/">FRV Froova — Brand & E-Commerce</a></h3>
-      <p>Product marketing site for a probiotic soda brand — flavor browsing, subscription pricing, and CMS-driven content. Headless, fast, and production-deployed.</p>
+      <h3><a href="https://frv-froova.vercel.app/">FRV Froova</a> &nbsp;<img src="https://img.shields.io/badge/Live-22D3EE?style=flat-square" /></h3>
+      <p><strong>Brand & E-Commerce</strong> — product marketing site for a probiotic soda brand. Flavor browsing, subscription pricing, and CMS-driven content. Headless and fast.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/Prismic-5163BA?style=flat-square&logo=prismic&logoColor=white" />
@@ -57,8 +57,8 @@ Frontend developer focused on building mobile apps with Flutter and modern web p
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://dashboard-app-plum-five.vercel.app/">DataLens — Analytics Dashboard</a></h3>
-      <p>Full-stack analytics UI with KPI cards, real-time line charts, and pie chart breakdowns. Custom Express API, dark theme, data-dense but scannable.</p>
+      <h3><a href="https://dashboard-app-plum-five.vercel.app/">DataLens</a> &nbsp;<img src="https://img.shields.io/badge/Live-22D3EE?style=flat-square" /></h3>
+      <p><strong>Analytics Dashboard</strong> — full-stack UI with KPI cards, real-time line charts, and pie chart breakdowns. Custom Express API, dark theme, data-dense but scannable.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
@@ -66,12 +66,32 @@ Frontend developer focused on building mobile apps with Flutter and modern web p
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://vacation-explorer.vercel.app/">VoyageIQ — Luxury Travel Explorer</a></h3>
-      <p>Travel planning platform with curated luxury listings, location filters, live weather, and country data. Clean UI, REST API integrations, TypeScript throughout.</p>
+      <h3><a href="https://vacation-explorer.vercel.app/">VoyageIQ</a> &nbsp;<img src="https://img.shields.io/badge/Live-22D3EE?style=flat-square" /></h3>
+      <p><strong>Travel Explorer</strong> — curated luxury listings with location filters, live weather, and country data. Clean UI built around multiple REST API integrations.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Ousman37/wishlishly">Wishlishly</a> &nbsp;<img src="https://img.shields.io/badge/Mobile-FF6C37?style=flat-square" /></h3>
+      <p><strong>iOS Wishlist App</strong> — native mobile app for creating, organising, and sharing wishlists. Built with Flutter and Dart, targeting the App Store.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+        <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://visionary-sprite-8c6f10.netlify.app/">BidSpace</a> &nbsp;<img src="https://img.shields.io/badge/Live-22D3EE?style=flat-square" /></h3>
+      <p><strong>Auction Platform</strong> — user registration, item listing, real-time bidding, and a credit-based economy. Responsive and fully functional end-to-end.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
       </p>
     </td>
   </tr>
@@ -85,6 +105,18 @@ Frontend developer focused on building mobile apps with Flutter and modern web p
 
 ---
 
+## ⚡ Currently Building
+
+Things I am actively working on, experimenting with, or iterating:
+
+| | What | Status |
+|---|---|---|
+| 📱 | Expanding **Wishlishly** — adding real-time sharing and App Store polish | In progress |
+| 🌐 | New client projects via **Bold Layer** — web products for startups | Active |
+| 🧪 | UI experiments and product concepts — interaction patterns, layout systems | Ongoing |
+
+---
+
 ## 🛠️ Tech Stack
 
 **Frontend**
@@ -95,6 +127,11 @@ Frontend developer focused on building mobile apps with Flutter and modern web p
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+**Mobile**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
 **Backend & Auth**
 
@@ -111,26 +148,21 @@ Frontend developer focused on building mobile apps with Flutter and modern web p
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-**Mobile**
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/Ousman37">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ousman37&show_icons=true&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Ousman37?tab=repositories">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ousman37&layout=compact&langs_count=8&theme=tokyonight" />
-  </a>
+  <img src="https://streak-stats.demolab.com/?user=ousman37&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ousman37&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/ousman37">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ousman37&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  </a>
+  <a href="https://github.com/ousman37?tab=repositories">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ousman37&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  </a>
 </p>
 
 <p align="center">
@@ -141,7 +173,7 @@ Frontend developer focused on building mobile apps with Flutter and modern web p
 
 ## 💼 Work With Me
 
-> **[Bold Layer](https://www.bold-layer.com)** — complete, production-ready websites in **14 days**, not 14 weeks.
+> **[Bold Layer](https://www.bold-layer.com)** — production-ready websites in **14 days**, not 14 weeks.
 
 | | Service | What You Get |
 |---|---|---|
