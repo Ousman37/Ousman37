@@ -157,12 +157,8 @@ Things I am actively working on, experimenting with, or iterating:
 </p>
 
 <p align="center">
-  <a href="https://github.com/ousman37">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ousman37&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-  </a>
-  <a href="https://github.com/ousman37?tab=repositories">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ousman37&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ousman37&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ousman37&theme=tokyonight" />
 </p>
 
 <p align="center">
