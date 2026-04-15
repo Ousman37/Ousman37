@@ -121,7 +121,7 @@ I spent years in professional kitchens cooking under pressure — timing, precis
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ousman37&theme=dark&hide_border=true&ring=22D3EE&fire=FF6C37&currStreakLabel=22D3EE&background=0D1117&sideLabels=FFFFFF&dates=8B949E" alt="GitHub Streak" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=ousman37&theme=dark&hide_border=true&ring=22D3EE&fire=FF6C37&currStreakLabel=22D3EE&background=0D1117&sideLabels=FFFFFF&dates=8B949E" alt="GitHub Streak" />
   &nbsp;
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=ousman37&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&icon_color=22D3EE&title_color=22D3EE&text_color=FFFFFF" alt="GitHub Stats" />
 </p>
