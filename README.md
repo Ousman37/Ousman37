@@ -37,25 +37,51 @@ I spent years in professional kitchens cooking under pressure — timing, precis
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="[LINK]">[PROJECT NAME]</a></h3>
-      <p>[Brief description — what it does, who it's for, and the result it delivers. Stack: React / Next.js / TailwindCSS]</p>
+      <h3><a href="https://focusflow-app.vercel.app/">FocusFlow — Productivity SaaS</a></h3>
+      <p>Deep-work timer, distraction blocking, mood tracking, and habit streaks — inspired by the Hyperfocus method. Full auth, responsive, deployed to production.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="[LINK]">[PROJECT NAME]</a></h3>
-      <p>[Brief description — what it does, who it's for, and the result it delivers. Stack: TypeScript / Node.js / Firebase]</p>
+      <h3><a href="https://frv-froova.vercel.app/">FRV Froova — Brand & E-Commerce</a></h3>
+      <p>Product marketing site for a probiotic soda brand — flavor browsing, subscription pricing, and CMS-driven content. Headless, fast, and production-deployed.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Prismic-5163BA?style=flat-square&logo=prismic&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="[LINK]">[PROJECT NAME]</a></h3>
-      <p>[Brief description — what it does, who it's for, and the result it delivers. Stack: Next.js / Vercel / REST API]</p>
+      <h3><a href="https://dashboard-app-plum-five.vercel.app/">DataLens — Analytics Dashboard</a></h3>
+      <p>Full-stack analytics UI with KPI cards, real-time line charts, and pie chart breakdowns. Custom Express API, dark theme, data-dense but scannable.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="[LINK]">[PROJECT NAME]</a></h3>
-      <p>[Brief description — what it does, who it's for, and the result it delivers. Stack: React / Redux / Express]</p>
+      <h3><a href="https://vacation-explorer.vercel.app/">VoyageIQ — Luxury Travel Explorer</a></h3>
+      <p>Travel planning platform with curated luxury listings, location filters, live weather, and country data. Clean UI, REST API integrations, TypeScript throughout.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logoColor=white" />
+      </p>
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <a href="https://ethmane-portfolio.vercel.app/get-hired">
+    <img src="https://img.shields.io/badge/See_All_Projects-22D3EE?style=flat-square&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 ---
 
