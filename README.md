@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=600&color=22D3EE&center=true&vCenter=true&width=650&lines=Frontend+Developer+%F0%9F%9A%80;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Founder+of+Bold+Layer+%E2%9C%A6;High-Performance+Sites+in+14+Days;From+Chef+to+Code+%E2%80%94+Precision+in+Both" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=600&color=22D3EE&center=true&vCenter=true&width=650&lines=Frontend+%26+Mobile+Developer+%F0%9F%9A%80;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Flutter+%E2%80%A2+Mobile+Apps+%E2%80%A2+App+Store;Founder+of+Bold+Layer+%E2%9C%A6;From+Chef+to+Code+%E2%80%94+Precision+in+Both" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -28,7 +28,7 @@
 
 ## About Me
 
-I spent years in professional kitchens cooking under pressure — timing, precision, and no room for mistakes. In 2024 I graduated from **Noroff School of Technology** and brought that same mindset to frontend development. Today I run **[Bold Layer](https://www.bold-layer.com)**, a freelance web agency that ships high-performance, production-ready websites in 14 days for startups and small businesses. Originally from Mauritania, based in Norway — I speak 4 languages, meditate daily, and believe the best code, like the best food, is clean, intentional, and made to last.
+I spent years in professional kitchens cooking under pressure — timing, precision, and no room for mistakes. In 2024 I graduated from **Noroff School of Technology** and brought that same discipline to software development: I build web applications with React and Next.js, and native mobile apps with Flutter for the App Store. I also run **[Bold Layer](https://www.bold-layer.com)**, a freelance web agency that delivers high-performance, production-ready websites in 14 days for startups and small businesses. Originally from Mauritania, based in Norway — I speak 4 languages, meditate daily, and believe the best code, like the best food, is clean, intentional, and made to last.
 
 ---
 
@@ -111,23 +111,26 @@ I spent years in professional kitchens cooking under pressure — timing, precis
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-**Currently Learning**
+**Mobile**
 
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com/?user=ousman37&theme=dark&hide_border=true&ring=22D3EE&fire=FF6C37&currStreakLabel=22D3EE&background=0D1117&sideLabels=FFFFFF&dates=8B949E" alt="GitHub Streak" />
-  &nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ousman37&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&icon_color=22D3EE&title_color=22D3EE&text_color=FFFFFF" alt="GitHub Stats" />
+  <a href="https://github.com/Ousman37">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ousman37&show_icons=true&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Ousman37?tab=repositories">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ousman37&layout=compact&langs_count=8&theme=tokyonight" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ousman37&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=FFFFFF&langs_count=6" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=Ousman37&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
