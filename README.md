@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=600&color=22D3EE&center=true&vCenter=true&width=650&lines=Frontend+%26+Mobile+Developer+%F0%9F%9A%80;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Flutter+%E2%80%A2+Mobile+Apps+%E2%80%A2+App+Store;Founder+of+Bold+Layer+%E2%9C%A6;From+Chef+to+Code+%E2%80%94+Precision+in+Both" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=600&color=22D3EE&center=true&vCenter=true&width=650&lines=Frontend+%26+Mobile+Developer+%F0%9F%9A%80;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Flutter+%E2%80%A2+Mobile+Apps+%E2%80%A2+App+Store;Founder+of+Bold+Layer+%E2%9C%A6;Clean+UI.+Real+Products.+Shipped." alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -28,7 +28,7 @@
 
 ## About Me
 
-I spent years in professional kitchens cooking under pressure — timing, precision, and no room for mistakes. In 2024 I graduated from **Noroff School of Technology** and brought that same discipline to software development: I build web applications with React and Next.js, and native mobile apps with Flutter for the App Store. I also run **[Bold Layer](https://www.bold-layer.com)**, a freelance web agency that delivers high-performance, production-ready websites in 14 days for startups and small businesses. Originally from Mauritania, based in Norway — I speak 4 languages, meditate daily, and believe the best code, like the best food, is clean, intentional, and made to last.
+Frontend developer focused on building mobile apps with Flutter and modern web products with React and Next.js. I care about clean UI, practical user experiences, and shipping things that actually work. I also run **[Bold Layer](https://www.bold-layer.com)**, a freelance web agency that delivers production-ready websites in 14 days for startups and small businesses. Noroff School of Technology graduate, 2024.
 
 ---
 
@@ -187,7 +187,5 @@ I spent years in professional kitchens cooking under pressure — timing, precis
 ---
 
 <p align="center">
-  <em>"In the kitchen, a recipe is just the beginning — what matters is execution under pressure.<br>
-  Code is no different. I build things that work when it counts."</em><br><br>
-  <sub>— Ethmane · Chef turned Developer · Mauritania → Norway</sub>
+  <sub>Building on the web and mobile — one clean product at a time.</sub>
 </p>
